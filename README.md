@@ -56,3 +56,5 @@ The microcontroller reads the received character and turns the appropriate appli
 Conclusion: This project is an excellent example of integrating mobile applications with embedded systems for real-world automation. It provides a low-cost, scalable, and user-friendly solution to automate home appliances. It enhances convenience, improves energy efficiency, and demonstrates how Bluetooth and MIT App Inventor can be used effectively for wireless control systems
 
 OUTPUT :
+
+<img width="456" height="763" alt="Image" src="https://github.com/user-attachments/assets/8b0c1906-69e7-4878-b9a2-54cbeb9430ab" />
