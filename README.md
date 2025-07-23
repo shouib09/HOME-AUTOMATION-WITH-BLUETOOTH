@@ -58,3 +58,5 @@ Conclusion: This project is an excellent example of integrating mobile applicati
 OUTPUT :
 
 <img width="456" height="763" alt="Image" src="https://github.com/user-attachments/assets/8b0c1906-69e7-4878-b9a2-54cbeb9430ab" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/71ac6c93-d045-4eaa-8b7d-df9531bc0064" />
